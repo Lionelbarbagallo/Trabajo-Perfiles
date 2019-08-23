@@ -11,7 +11,7 @@ scripts hallarás el código de las funciones accesorias utilizadas en el proyec
 construcción de los modelos y evaluación de los resultados. Este notebook se encuentra comentado con Insights y conclusiones respecto al avance del trabajo,
 por lo que es recomendable su lectura. Siguiendo el siguiente link podrás acceder a una visualización On-Line de este notebook:
 
-link!!!
+https://github.com/Lionelbarbagallo/Trabajo-Perfiles/blob/master/scripts/Social%20Network%20Profile%20Analysis.ipynb
 
 Y si querés entender el proyecto, pero no te interesa tanto el código, en el siguiente link podés encontrar una presentación visual resumiendo las
 principales líneas de trabajo y conclusiones.
