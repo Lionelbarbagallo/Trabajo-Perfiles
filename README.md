@@ -1,4 +1,4 @@
-# Trabajo-Perfiles
+# Social Network Profile Analysis
 
 Bienvenido al repositorio del proyecto Social Network Profile Analysis!
 
